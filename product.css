@@ -1,0 +1,119 @@
+.poop{
+    padding: 20px;
+    font-family: 'Inspire-KO', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.lego{
+    justify-content: space-between;
+    display: flex;
+    background-color: #d3d5d7;
+
+}
+
+.lego > *{
+    padding: 20px;
+}
+
+.word{
+    align-self: center;
+    font-size: 30px;
+    font-family: "Inspire-KO", sans-serif;
+    margin-left: 30px;
+    font-weight: 600;
+
+}
+
+.location{
+    align-self: center;
+    font-family: "Inspire-KO", sans-serif;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.worde{
+    margin-top: 20px;
+    align-self: center;
+    display: flex;
+    margin-left: 50px;
+}
+
+.h{
+    align-self: center;
+}
+
+.ex{
+    margin-top: 40px;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.d{
+    display: flex;
+    padding: 20px;
+}
+
+.d > *{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.chat{
+    color: white;
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.danger{
+    color: white;
+    border: 1px solid red;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.chat:hover{
+    color: darkorange;
+}
+
+.danger:hover{
+    color: darkred;
+}
+
+.price{
+    margin-bottom: 20px;
+    font-size: 25px;
+
+}
+
+.h{
+    align-self: center;
+    font-size: 30px;
+    font-family: 'Inspire-KO', sans-serif;
+    font-weight: 600;
+}
+
+.p a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.p:hover{
+    color: gray;
+}
+
+.crazy{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dongo{
+    padding: 30px;
+}
